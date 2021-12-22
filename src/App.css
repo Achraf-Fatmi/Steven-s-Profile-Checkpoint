@@ -1,0 +1,12 @@
+.App{
+    margin: auto;
+    width: 500px;
+    border: solid 1px black;
+    flex-direction: column;
+    display: flex;
+    border-radius: 10px;
+    align-items: center;
+    color: dodgerblue;
+    font-style: italic;
+
+}
